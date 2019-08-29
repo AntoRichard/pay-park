@@ -1,0 +1,9 @@
+[
+  { "name": "jerry", "password": "abc@123" },
+  { "name": "anto", "password": "helloworld" },
+  { "name": "hello", "password": "world" },
+  { "username": "jerry", "password": "adsvsdf" },
+  { "username": "newuser", "password": "hellodkjbs" },
+  { "username": "dsa", "password": "as" },
+  { "username": "asdads", "password": "gdfhgjhkjkl" }
+]
